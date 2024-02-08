@@ -1,1 +1,1 @@
-Sample python file
+print("sample second file")
